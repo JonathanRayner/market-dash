@@ -2,14 +2,12 @@
 
 A simple dashboard for financial markets
 
-Essentially follows [this medium article](https://medium.com/geekculture/how-to-create-a-simple-crypto-dashboard-using-python-b9678e7867b) with some differences (TODO: explain).
+Essentially follows [this medium article](https://medium.com/geekculture/how-to-create-a-simple-crypto-dashboard-using-python-b9678e7867b) with some differences. TODO: explain the differences.
 
 
 ## Possible data sources
 
-WARNING: likely all of these sources are 15 min delayed or more on free tiers.
-
-TODO: check this
+WARNING: likely all of these sources are 15 min delayed or more on free tiers. TODO: check this.
 
 ### Alpaca
 
