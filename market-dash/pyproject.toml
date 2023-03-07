@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "market-dash"
+version = "0.1.0"
+description = ""
+authors = ["Jonathan Rayner <jonathan.j.rayner@gmail.com>"]
+readme = "README.md"
+packages = [{include = "market_dash"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
